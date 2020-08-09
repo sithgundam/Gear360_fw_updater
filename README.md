@@ -6,4 +6,5 @@
 
 3) Put the file in the SD card root
 
-4)
+4) copy "updater.sh" into sd root
+
